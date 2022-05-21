@@ -1,0 +1,40 @@
+{
+ "comandos":[
+ {
+ "nombre":"Comando1",
+ "especificos":[
+ {
+ "nombre":"Especifico1",
+ "valor":"ValorEspecifico1"
+ },
+ {
+ "nombre":"Especifico2",
+ "valor":"ValorEspecifico2"
+ }
+ ]
+},
+{
+ "nombre":"Comando2",
+ "especificos":[
+ {
+ "nombre":"Especifico21",
+ "valor":"ValorEspecifico21"
+ },
+ {
+ "nombre":"Especifico22",
+ "valor":"ValorEspecifico22"
+ }
+ ]
+ }
+],
+"parametros":[
+ {
+ "nombre":"Nombre1",
+ "valor":"Valor1"
+ },
+ {
+ "nombre":"Nombre2",
+ "valor":"Valor2"
+ }
+ ]
+}

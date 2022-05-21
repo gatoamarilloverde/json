@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1653135187 source:c:\users\wsr\downloads\clases\claudia web\json\json.c
+	<stdio.h>
+	<string.h>
+
+1653176091 source:c:\users\wsr\downloads\clases\claudia web\json\json2.c
+	<stdio.h>
+	<string.h>
+
