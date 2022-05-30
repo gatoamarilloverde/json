@@ -9,7 +9,7 @@ int main(void){
     int comillas=0;
     char cadena[100];
     int contador=0;
-    int debug=0;
+    int debug=0; //ver lo que esta haciendo
     int parametros=2;
     int valores=0;
     int fin=0;
